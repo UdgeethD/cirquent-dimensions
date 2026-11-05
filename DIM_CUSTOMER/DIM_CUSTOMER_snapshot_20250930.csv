@@ -1,0 +1,27 @@
+CUSTOMER_ID,CUSTOMER_NAME,INDUSTRY,CUSTOMER_TIER,REGION,COUNTRY,STATE,CITY,CONTRACT_START_DT,PAYMENT_TERMS_DAYS,CREDIT_LIMIT_INR,IS_ACTIVE,SRC_CREATED_DT,SRC_MODIFIED_DT
+CUST001,Lumora Home Appliances,Consumer Electronics,Strategic,north,India,Uttar Pradesh,Noida,2019-04-10,45,90000000.0,1,2021-01-01,2021-01-01
+CUST002,Sunvolt Energy Systems,Energy & Utilities,Strategic,North,India,Rajasthan,Jaipur,2019-09-01,60,120000000.0,1,2021-01-01,2021-01-01
+CUST003,Kaveri Smart Meters,Energy & Utilities,Key,South,India,Karnataka,Bengaluru,2020-02-15,45,70000000.0,1,2021-01-01,2021-01-01
+CUST004,Meghdoot Telecom Systems ,Telecom,Key,WEST,India,Maharashtra,Mumbai,2020-06-01,45,65000000.0,1,2021-01-01,2021-01-01
+CUST005,Torque Motion Automotive,Automotive,Strategic,South,India,Tamil Nadu,Chennai,2019-11-20,60,150000000.0,1,2021-01-01,2021-01-01
+CUST006,Aarav Industrial Controls,Industrial Automation,Key,West,India,Maharashtra,Pune,2020-01-12,30,55000000.0,1,2021-01-01,2021-01-01
+CUST007,Brahma Health Devices,Healthcare Devices,Standard,South,India,Telangana,Hyderabad,2020-08-05,30,,1,2021-01-01,2021-01-01
+CUST008,Ganga Smart Home,Consumer Electronics,Standard,East,India,West Bengal,Kolkata,2021-03-01,30,,1,2021-03-01,2021-03-01
+CUST009,Orion Power Electronics,Energy & Utilities,Key,West,India,Gujarat,Ahmedabad,2020-10-10,45,60000000.0,1,2021-01-01,2021-01-01
+CUST010,Himalaya Lighting,Consumer Electronics,Standard,North,India,Chandigarh,Chandigarh,2021-06-15,30,20000000.0,1,2021-06-15,2021-06-15
+CUST011,Deccan EV Mobility,Automotive,Key,South,India,Telangana,Hyderabad,2021-09-01,45,80000000.0,1,2021-09-01,2021-09-01
+CUST012,Konark Telecom Equipment,Telecom,Standard,East,India,Odisha,Bhubaneswar,2021-11-10,30,25000000.0,1,2021-11-10,2021-11-10
+CUST013,Vayu Industrial Systems,Industrial Automation,Standard,South,India,Tamil Nadu,Coimbatore,2022-01-20,30,28000000.0,1,2022-01-20,2022-01-20
+CUST014,Malabar Smart Devices,Consumer Electronics,Standard,South,India,Kerala,Kochi,2022-04-04,30,22000000.0,1,2022-04-04,2022-04-04
+CUST015,Rudra Automotive Electronics,Automotive,Key,North,India,Haryana,Gurugram,2022-05-16,45,75000000.0,1,2022-05-16,2022-05-16
+CUST016,Saraswati Health Tech,Healthcare Devices,Standard,West,India,Madhya Pradesh,Indore,2022-08-22,30,24000000.0,1,2022-08-22,2022-08-22
+CUST017,Brightway Grid Solutions,Energy & Utilities,Standard,North,India,Uttar Pradesh,Lucknow,2022-10-03,45,30000000.0,1,2022-10-03,2022-10-03
+CUST018,Assam Telecom Networks,Telecom,Standard,East,India,Assam,Guwahati,2023-01-09,30,20000000.0,1,2023-01-09,2023-01-09
+CUST019,Nordlicht Elektronik GmbH,Industrial Automation,Key,Export ,Germany,Bavaria,Munich,2023-02-13,60,100000000.0,1,2023-02-13,2023-02-13
+CUST020,Lakeshore Smart Home Inc.,Consumer Electronics,Key,Export,USA,Texas,Austin,2023-05-02,60,95000000.0,1,2023-05-02,2023-05-02
+CUST021,Al Noor Power Systems,Energy & Utilities,Key,Export,UAE,Dubai,Dubai,2023-09-18,60,85000000.0,1,2023-09-18,2023-09-18
+CUST022,Patel Mobility Solutions,Automotive,Standard,West,India,Gujarat,Surat,2023-11-27,30,28000000.0,1,2023-11-27,2023-11-27
+CUST023,Eastern Grid Controls,Industrial Automation,Standard,East,India,West Bengal,Kolkata,2024-02-05,30,26000000.0,1,2024-02-05,2024-02-05
+CUST024,Zenith IoT Labs ,Industrial Automation,Standard,South,India,Karnataka,Bengaluru,2024-05-20,30,24000000.0,1,2024-05-20,2024-05-20
+CUST025,Nirmal Medical Instruments,Healthcare Devices,Standard,West,India,Maharashtra,Nagpur,2024-09-09,30,22000000.0,1,2024-09-09,2024-09-09
+CUST026,Jharkhand Tele-Infra,Telecom,Standard,East,India,Jharkhand,Ranchi,2025-03-17,30,18000000.0,1,2025-03-17,2025-03-17
